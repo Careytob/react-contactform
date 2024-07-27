@@ -2,6 +2,7 @@
   "name": "react-contactform",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://careytob.github.io/react-contactform",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -26,6 +27,8 @@
     "eslint-plugin-react": "^7.34.2",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
+    "gh-pages": "^6.1.1",
+    "deploy": "gh-pages -d build",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4",
     "vite": "^5.3.1"
